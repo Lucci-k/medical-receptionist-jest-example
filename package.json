@@ -1,0 +1,17 @@
+{
+  "name": "milestone_1",
+  "version": "1.0.0",
+  "description": "Artifact to showcase software design and engineering testing principles.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kyle Bartolucci",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
